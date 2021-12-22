@@ -1,0 +1,483 @@
+2021-07-09 08:15:50,315 - apscheduler.scheduler - INFO - Scheduler started
+2021-07-09 08:18:10,346 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:18:34,919 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:24.57240104675293
+2021-07-09 08:18:35,290 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:18:42,530 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.23961877822876
+2021-07-09 08:18:43,006 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:18:50,091 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.084921598434448
+2021-07-09 08:18:50,462 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:18:57,358 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.896103143692017
+2021-07-09 08:18:57,816 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:19:04,491 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.674577474594116
+2021-07-09 08:20:56,049 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:21:03,229 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.179418325424194
+2021-07-09 08:21:03,612 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:21:10,773 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.160854339599609
+2021-07-09 08:21:11,139 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:21:17,936 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.796141147613525
+2021-07-09 08:21:18,312 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:21:24,815 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.502560615539551
+2021-07-09 08:21:25,184 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:21:31,879 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6952691078186035
+2021-07-09 08:22:40,409 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:22:46,740 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.33031439781189
+2021-07-09 08:22:47,113 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:22:53,969 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.8555004596710205
+2021-07-09 08:22:54,340 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:23:00,844 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.503927230834961
+2021-07-09 08:23:01,220 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:23:07,788 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.56772518157959
+2021-07-09 08:23:08,172 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:23:14,533 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.360689401626587
+2021-07-09 08:24:49,038 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:24:55,547 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.508756637573242
+2021-07-09 08:24:55,911 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:25:02,652 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.7401182651519775
+2021-07-09 08:25:03,029 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:25:09,660 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.630107879638672
+2021-07-09 08:25:10,034 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:25:16,409 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.375068426132202
+2021-07-09 08:25:16,789 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:25:23,472 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.683025598526001
+2021-07-09 08:26:18,768 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:26:26,351 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.582050561904907
+2021-07-09 08:26:26,725 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:26:33,624 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.899127006530762
+2021-07-09 08:26:34,001 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:26:40,561 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.560334205627441
+2021-07-09 08:26:40,937 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:26:47,895 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.95772123336792
+2021-07-09 08:26:48,289 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:26:55,041 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.7514941692352295
+2021-07-09 08:27:44,879 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:27:51,405 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.525187015533447
+2021-07-09 08:27:51,805 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:27:59,013 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.208172798156738
+2021-07-09 08:27:59,394 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:28:06,315 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.921218395233154
+2021-07-09 08:28:06,928 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:28:13,698 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.769195318222046
+2021-07-09 08:28:14,169 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:28:21,153 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.984177112579346
+2021-07-09 08:29:56,177 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:30:03,057 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.879948377609253
+2021-07-09 08:30:03,446 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:30:10,136 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.69003701210022
+2021-07-09 08:30:10,528 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:30:17,099 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.5705461502075195
+2021-07-09 08:30:17,495 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:30:24,081 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.584728956222534
+2021-07-09 08:30:24,456 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:30:31,324 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.868478059768677
+2021-07-09 08:31:37,323 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:31:44,188 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.864758491516113
+2021-07-09 08:31:44,641 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:31:51,332 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6906914710998535
+2021-07-09 08:31:51,713 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:31:58,578 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.864995956420898
+2021-07-09 08:31:58,961 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:32:05,536 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.575430393218994
+2021-07-09 08:32:05,927 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:32:12,401 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.474402189254761
+2021-07-09 08:33:11,766 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:33:19,108 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.340917110443115
+2021-07-09 08:33:19,522 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:33:26,575 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.05291223526001
+2021-07-09 08:33:26,995 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:33:34,180 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.18483304977417
+2021-07-09 08:33:34,599 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:33:41,714 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.114403963088989
+2021-07-09 08:33:42,189 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:33:49,307 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.117343187332153
+2021-07-09 08:35:47,214 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:35:54,359 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.14401388168335
+2021-07-09 08:35:54,775 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:36:02,267 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.491168737411499
+2021-07-09 08:36:02,691 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:36:09,669 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.9774744510650635
+2021-07-09 08:36:10,085 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:36:17,216 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.130087375640869
+2021-07-09 08:36:17,631 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:36:25,005 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.3736371994018555
+2021-07-09 08:37:40,336 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:37:47,402 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.066086530685425
+2021-07-09 08:37:47,813 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:37:54,939 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.125889539718628
+2021-07-09 08:37:55,458 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:38:02,966 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.507661581039429
+2021-07-09 08:38:03,383 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:38:10,378 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.994258880615234
+2021-07-09 08:38:10,806 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:38:18,006 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.198943614959717
+2021-07-09 08:38:18,443 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:38:25,510 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.066497325897217
+2021-07-09 08:39:36,701 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:39:43,766 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.064577102661133
+2021-07-09 08:39:44,177 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:39:51,083 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.905804872512817
+2021-07-09 08:39:51,504 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:39:58,693 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.188208103179932
+2021-07-09 08:39:59,143 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:40:06,395 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.252102613449097
+2021-07-09 08:40:07,089 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:40:13,754 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.663883686065674
+2021-07-09 08:41:38,619 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:41:45,116 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.49662971496582
+2021-07-09 08:41:45,512 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:41:52,051 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.538385391235352
+2021-07-09 08:41:52,457 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:41:59,322 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.864361047744751
+2021-07-09 08:41:59,752 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:42:06,401 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.649155616760254
+2021-07-09 08:42:06,789 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:42:13,439 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6496875286102295
+2021-07-09 08:43:45,926 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:43:52,763 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.8364222049713135
+2021-07-09 08:43:53,172 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:43:59,982 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.809899091720581
+2021-07-09 08:44:00,420 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:44:06,987 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.56623387336731
+2021-07-09 08:44:07,365 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:44:13,958 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.591802358627319
+2021-07-09 08:44:14,336 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:44:20,921 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.58478307723999
+2021-07-09 08:45:09,250 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:45:15,781 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.530328273773193
+2021-07-09 08:45:16,163 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:45:23,020 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.856594800949097
+2021-07-09 08:45:23,394 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:45:30,210 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.815884828567505
+2021-07-09 08:45:30,584 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:45:37,108 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.523657321929932
+2021-07-09 08:45:37,480 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:45:44,048 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.568107604980469
+2021-07-09 08:47:04,030 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:47:10,978 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.947843551635742
+2021-07-09 08:47:11,351 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:47:18,143 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.791089296340942
+2021-07-09 08:47:18,527 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:47:25,315 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.787405014038086
+2021-07-09 08:47:25,681 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:47:32,529 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.846878290176392
+2021-07-09 08:47:33,177 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:47:40,017 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.83976936340332
+2021-07-09 08:49:09,068 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:49:15,891 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.822758436203003
+2021-07-09 08:49:16,296 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:49:23,278 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.981961488723755
+2021-07-09 08:49:23,656 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:49:30,426 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.770049810409546
+2021-07-09 08:49:30,813 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:49:37,608 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.7949535846710205
+2021-07-09 08:49:38,026 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:49:44,838 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.811556339263916
+2021-07-09 08:54:35,518 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:54:42,323 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.804673910140991
+2021-07-09 08:54:42,708 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:54:49,697 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.9879584312438965
+2021-07-09 08:54:50,081 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:54:56,919 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.83801007270813
+2021-07-09 08:54:57,295 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:55:04,134 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.838820934295654
+2021-07-09 08:55:04,513 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:55:11,357 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.844113826751709
+2021-07-09 08:56:12,720 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:56:19,452 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.731189012527466
+2021-07-09 08:56:19,826 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:56:26,657 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.83073616027832
+2021-07-09 08:56:27,033 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:56:33,921 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.887837171554565
+2021-07-09 08:56:34,290 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:56:41,107 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.816770076751709
+2021-07-09 08:56:41,473 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:56:48,299 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.825878381729126
+2021-07-09 08:58:04,962 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:58:11,876 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.91376256942749
+2021-07-09 08:58:12,262 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:58:19,179 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.917395114898682
+2021-07-09 08:58:19,673 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:58:26,496 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.822587251663208
+2021-07-09 08:58:26,865 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:58:33,590 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.724695444107056
+2021-07-09 08:58:34,375 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 08:58:41,748 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.372239828109741
+2021-07-09 09:01:52,050 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:01:59,183 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.132375717163086
+2021-07-09 09:01:59,638 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:02:07,058 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.418878793716431
+2021-07-09 09:02:07,514 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:02:14,630 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.1161789894104
+2021-07-09 09:02:15,119 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:02:22,176 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.056826114654541
+2021-07-09 09:02:22,586 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:02:29,923 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.335855722427368
+2021-07-09 09:03:14,888 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:03:21,927 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.038943767547607
+2021-07-09 09:03:22,344 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:03:29,628 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.283570289611816
+2021-07-09 09:03:30,040 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:03:37,369 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.32837438583374
+2021-07-09 09:03:37,792 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:03:44,754 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.961617469787598
+2021-07-09 09:03:45,169 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:03:52,519 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.350167274475098
+2021-07-09 09:04:48,299 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:04:55,244 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.94439697265625
+2021-07-09 09:04:55,673 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:05:03,010 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.336321592330933
+2021-07-09 09:05:03,447 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:05:10,818 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.371041536331177
+2021-07-09 09:05:11,243 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:05:18,526 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.28252911567688
+2021-07-09 09:05:18,942 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:05:26,389 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.446682453155518
+2021-07-09 09:06:26,042 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:06:33,515 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.472644329071045
+2021-07-09 09:06:34,049 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:06:41,729 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.679680109024048
+2021-07-09 09:06:42,144 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:06:49,682 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.537008762359619
+2021-07-09 09:06:50,100 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:06:57,468 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.367427587509155
+2021-07-09 09:06:58,128 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:07:05,002 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.873703241348267
+2021-07-09 09:08:00,360 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:08:07,161 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.800252914428711
+2021-07-09 09:08:07,544 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:08:14,103 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.559083461761475
+2021-07-09 09:08:14,474 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:08:21,017 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.543020486831665
+2021-07-09 09:08:21,402 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:08:28,337 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.934814691543579
+2021-07-09 09:08:28,720 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:08:35,211 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.490489482879639
+2021-07-09 09:11:15,703 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:11:22,550 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.846482992172241
+2021-07-09 09:11:22,929 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:11:29,506 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.57741641998291
+2021-07-09 09:11:29,879 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:11:36,549 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.66985011100769
+2021-07-09 09:11:36,922 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:11:43,726 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.803241014480591
+2021-07-09 09:11:44,175 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:11:50,751 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.575892686843872
+2021-07-09 09:13:14,703 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:13:21,496 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.792147397994995
+2021-07-09 09:13:21,867 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:13:28,694 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.826747417449951
+2021-07-09 09:13:29,067 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:13:35,802 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.735133171081543
+2021-07-09 09:13:36,202 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:13:43,519 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.316181898117065
+2021-07-09 09:13:43,900 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:13:50,742 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.841771841049194
+2021-07-09 09:15:20,461 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:15:27,322 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.859731435775757
+2021-07-09 09:15:27,702 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:15:34,624 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.922391653060913
+2021-07-09 09:15:35,199 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:15:42,115 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.914837598800659
+2021-07-09 09:15:42,488 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:15:49,276 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.788073778152466
+2021-07-09 09:15:49,954 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:15:56,764 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.809988498687744
+2021-07-09 09:17:31,087 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:17:37,891 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.80292010307312
+2021-07-09 09:17:38,265 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:17:45,127 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.8614678382873535
+2021-07-09 09:17:45,499 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:17:52,078 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.577907562255859
+2021-07-09 09:17:52,459 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:17:59,016 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.556951284408569
+2021-07-09 09:17:59,394 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:18:06,160 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.765725135803223
+2021-07-09 09:19:32,365 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:19:39,120 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.754735708236694
+2021-07-09 09:19:39,495 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:19:46,433 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.937422275543213
+2021-07-09 09:19:46,835 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:19:53,631 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.795634984970093
+2021-07-09 09:19:54,007 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:20:00,763 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.755539894104004
+2021-07-09 09:20:01,142 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:20:07,973 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.830559730529785
+2021-07-09 09:21:21,009 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:21:27,795 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.785429239273071
+2021-07-09 09:21:28,181 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:21:35,019 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.838262319564819
+2021-07-09 09:21:35,389 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:21:42,365 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.97565221786499
+2021-07-09 09:21:42,741 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:21:49,246 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.504700183868408
+2021-07-09 09:21:49,646 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:21:57,339 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.6928324699401855
+2021-07-09 09:22:36,944 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:22:43,645 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.699885845184326
+2021-07-09 09:22:44,034 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:22:50,539 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.504637718200684
+2021-07-09 09:22:50,918 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:22:58,542 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.62343430519104
+2021-07-09 09:22:58,917 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:23:05,453 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.535380601882935
+2021-07-09 09:23:06,114 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:23:12,926 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.811806917190552
+2021-07-09 09:24:09,545 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:15,975 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.429465055465698
+2021-07-09 09:24:16,351 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:22,908 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.5566534996032715
+2021-07-09 09:24:23,305 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:29,987 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.681394338607788
+2021-07-09 09:24:30,355 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:37,080 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.725371360778809
+2021-07-09 09:24:37,472 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:44,301 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.828658103942871
+2021-07-09 09:24:44,679 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:51,421 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.740854024887085
+2021-07-09 09:24:51,811 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:24:58,244 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.432716131210327
+2021-07-09 09:24:58,643 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:25:05,102 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.457950830459595
+2021-07-09 09:27:32,060 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:27:38,606 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.545691728591919
+2021-07-09 09:27:38,984 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:27:45,385 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.400616884231567
+2021-07-09 09:27:45,753 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:27:52,219 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.465867757797241
+2021-07-09 09:27:52,590 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:27:59,029 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.43873929977417
+2021-07-09 09:27:59,396 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:28:05,852 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.4550230503082275
+2021-07-09 09:28:56,385 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:29:02,711 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.325600862503052
+2021-07-09 09:29:03,085 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:29:09,565 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.479710102081299
+2021-07-09 09:29:09,941 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:29:16,420 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.478493690490723
+2021-07-09 09:29:16,814 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:29:23,228 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.4140684604644775
+2021-07-09 09:29:23,615 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:29:30,091 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.476148843765259
+2021-07-09 09:30:26,191 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:30:32,672 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.480839014053345
+2021-07-09 09:30:33,330 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:30:39,681 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.35030722618103
+2021-07-09 09:30:40,050 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:30:46,562 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.511449575424194
+2021-07-09 09:30:46,938 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:30:53,261 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.322523832321167
+2021-07-09 09:30:53,695 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:31:00,030 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.3347790241241455
+2021-07-09 09:31:52,253 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:31:58,552 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.29887580871582
+2021-07-09 09:31:59,014 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:32:05,846 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.83164644241333
+2021-07-09 09:32:06,235 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:32:13,094 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.858277082443237
+2021-07-09 09:32:13,469 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:32:20,080 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.610350131988525
+2021-07-09 09:32:20,461 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:32:27,371 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.909849643707275
+2021-07-09 09:34:56,328 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:35:02,624 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.294845819473267
+2021-07-09 09:35:03,020 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:35:09,728 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.707659482955933
+2021-07-09 09:35:10,105 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:35:16,538 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.432681083679199
+2021-07-09 09:35:16,968 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:35:23,594 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6256115436553955
+2021-07-09 09:39:19,407 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:39:25,968 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.560290098190308
+2021-07-09 09:39:26,342 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:39:33,087 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.744313955307007
+2021-07-09 09:39:33,469 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:39:40,129 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6590259075164795
+2021-07-09 09:39:40,513 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:39:47,024 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.510977029800415
+2021-07-09 09:39:47,397 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:39:53,890 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.492953062057495
+2021-07-09 09:40:58,984 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:41:05,835 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.850399732589722
+2021-07-09 09:41:06,495 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:41:13,385 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.889583587646484
+2021-07-09 09:41:13,764 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:41:20,646 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.881195783615112
+2021-07-09 09:41:21,024 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:41:27,867 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.843262672424316
+2021-07-09 09:41:28,268 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:41:34,836 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.567738771438599
+2021-07-09 09:42:55,711 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:43:02,592 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.881094694137573
+2021-07-09 09:43:03,000 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:43:09,864 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.863629102706909
+2021-07-09 09:43:10,253 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:43:17,167 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.913432598114014
+2021-07-09 09:43:17,569 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:43:24,583 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.013169765472412
+2021-07-09 09:43:24,962 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:43:31,620 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.657764911651611
+2021-07-09 09:44:31,280 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:44:37,784 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.504477024078369
+2021-07-09 09:44:38,168 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:44:45,030 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.860745668411255
+2021-07-09 09:44:45,410 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:44:52,230 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.818827390670776
+2021-07-09 09:44:52,616 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:44:59,169 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.551984786987305
+2021-07-09 09:44:59,564 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:45:06,418 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.853450775146484
+2021-07-09 09:46:54,882 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:47:01,413 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.530494928359985
+2021-07-09 09:47:01,796 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:47:08,393 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.596226930618286
+2021-07-09 09:47:08,807 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:47:15,819 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.0118937492370605
+2021-07-09 09:47:16,261 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:47:22,746 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.484035968780518
+2021-07-09 09:47:23,137 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:47:29,732 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.594551086425781
+2021-07-09 09:48:26,464 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:48:33,274 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.809270143508911
+2021-07-09 09:48:34,008 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:48:40,490 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.482200860977173
+2021-07-09 09:48:40,866 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:48:47,415 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.548484563827515
+2021-07-09 09:48:47,790 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:48:54,279 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.488499879837036
+2021-07-09 09:48:54,666 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:49:01,146 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.479992151260376
+2021-07-09 09:50:02,977 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:50:09,521 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.543543577194214
+2021-07-09 09:50:09,948 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:50:16,605 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.656258821487427
+2021-07-09 09:50:16,985 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:50:23,794 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.808420181274414
+2021-07-09 09:50:24,175 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:50:30,696 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.520963430404663
+2021-07-09 09:50:31,078 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:50:37,654 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.575453519821167
+2021-07-09 09:51:24,570 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:51:31,774 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:7.203603744506836
+2021-07-09 09:51:32,153 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:51:38,696 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.542639255523682
+2021-07-09 09:51:39,083 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:51:45,743 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.659898281097412
+2021-07-09 09:51:46,122 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:51:52,603 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.480755090713501
+2021-07-09 09:51:52,974 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:51:59,473 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.498671531677246
+2021-07-09 09:53:25,592 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:53:32,244 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.6517534255981445
+2021-07-09 09:53:32,623 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:53:39,176 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.552102565765381
+2021-07-09 09:53:39,547 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:53:46,063 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.516018390655518
+2021-07-09 09:53:46,448 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:53:53,065 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.616913557052612
+2021-07-09 09:53:53,469 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:54:00,068 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.598881483078003
+2021-07-09 09:54:00,590 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:54:07,292 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.701867341995239
+2021-07-09 09:54:08,044 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:54:14,740 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.696418285369873
+2021-07-09 09:54:15,144 - __main__ - INFO - H-res Photo received from Chris Wong
+2021-07-09 09:54:21,639 - __main__ - INFO - Photo sent to Chris Wong, elapsed time:6.49427604675293
